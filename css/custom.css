@@ -2,3 +2,10 @@
 .form-group {
     box-shadow: 0 0 5px #0a9ce2;
 }
+.contact-info{
+    -webkit-box-shadow: 0 1px 4px 0 rgba(150, 16, 158, 0.68);
+    -moz-box-shadow: 0 1px 4px 0 rgba(150, 16, 158, 0.68);
+    -ms-box-shadow: 0 1px 4px 0 rgba(150, 16, 158, 0.68);
+    -o-box-shadow: 0 1px 4px 0 rgba(150, 16, 158, 0.68);
+    box-shadow: 0 1px 4px 0 rgba(150, 16, 158, 0.68);
+}
