@@ -1,1 +1,4 @@
 /* Add here all your CSS customizations */
+.form-group {
+    box-shadow: 0 0 5px #0a9ce2;
+}
